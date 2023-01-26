@@ -20,7 +20,7 @@ All the libraries are yet included in the project. So, you need only to download
 
 ## Project Layout 
 
- ![alt text](https://github.com/Robertogiordano/Automatic-Irrigation-System-Unitn-2022-2023/blob/main/img/final%20scheme.png)
+ ![alt text](https://github.com/Robertogiordano/Automatic-Irrigation-System-Unitn-2022-2023/blob/main/img/final%20scheme.jpg)
 
 With this configuration(or an analogue one) we set all of our structure,using also a "container"(a Yogurt vase) for the water where the water sensor and the pump were sealed making the structure impermeabile and leakproof.With a tube the reservoir is connected to the plant(Using a void glass to let the user see the water flow) and where it is positioned the umidity sensor 
 
