@@ -25,22 +25,22 @@ All the libraries are yet included in the project. So, you need only to download
 
 ## Project Layout 
 
-|-- main.c                             #main code
-|-- msp432p401r.cmd                    #linker commmand file
-|-- startup_msp432p401r_ccs.c          #initialize MCU and periherals including vector table, reset handler, system initialization and exception handlers
-|-- system_msp432p401r.c               #configure the system clock and other system-level settings
-|__ TargetConfigs
-|   |--MSP432P401R.ccxml               #contains information about the target microcontroller
-|-- Lib
-|   |-- displaymenu.c
-|   |-- displaymenu.h                  #contains functions to use the display and manage the water pump
-|   |-- HAL_I2C.c
-|   |-- HAL_I2C.h                      #contains functions to initialize Inter-integrated circuit transimssion
-|   |-- HAL_OPT3001.c
-|   |-- HAL_OPT3001.h                  #contains functions to initialize boosterpack optical light sensor
-|   |-- HAL_TMP006.c
-|   |-- HAL_TMP006.h                   #contains functions to initialize boosterpack temperature sensor
-|-- Debug                              #debugs files created after the first debug (auto-created by CCS)
+- main.c                             #main code
+- msp432p401r.cmd                    #linker commmand file
+- startup_msp432p401r_ccs.c          #initialize MCU and periherals including vector table, reset handler, system initialization and exception handlers
+- system_msp432p401r.c               #configure the system clock and other system-level settings
+- TargetConfigs
+   -  MSP432P401R.ccxml               #contains information about the target microcontroller
+- Lib
+   - displaymenu.c
+   - displaymenu.h                  #contains functions to use the display and manage the water pump
+   - HAL_I2C.c
+   - HAL_I2C.h                      #contains functions to initialize Inter-integrated circuit transimssion
+   - HAL_OPT3001.c
+   - HAL_OPT3001.h                  #contains functions to initialize boosterpack optical light sensor
+   - HAL_TMP006.c
+   - HAL_TMP006.h                   #contains functions to initialize boosterpack temperature sensor
+- Debug                             #debugs files created after the first debug (auto-created by CCS)
 
 
 ## Build and Run
