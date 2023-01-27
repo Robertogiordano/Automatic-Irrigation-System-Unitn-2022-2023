@@ -58,7 +58,7 @@ In the end, press the play button to run the code.
 Many variables are availables in the expresison panel to monitor all the inputs.
 
 ## Links to video and powerpoint
- ![alt text](https://github.com/Robertogiordano/Automatic-Irrigation-System-Unitn-2022-2023/blob/main/img/sprinkler.mp4)
+ ![alt text]([https://github.com/Robertogiordano/Automatic-Irrigation-System-Unitn-2022-2023/blob/main/img/sprinkler.mp4](https://drive.google.com/file/d/1M0-fqor-0n5G2SIImS-bF2R9dSsC9bi-/view?usp=share_link))
 
  ![alt text](https://github.com/Robertogiordano/Automatic-Irrigation-System-Unitn-2022-2023/blob/main/img/EMBEDDED%20SOFTWARE%20OF%20THE%20INTERNET%20OF%20THINGS.pptx)
 
