@@ -62,7 +62,7 @@ Video:
 https://drive.google.com/file/d/1M0-fqor-0n5G2SIImS-bF2R9dSsC9bi-/view?usp=share_link
 
 PPTX:
-https://docs.google.com/presentation/d/1WE2qRK1aJx3-jxEkqTDvzSt43RhXItFg/edit?usp=share_link&ouid=102939083008770388745&rtpof=true&sd=true
+https://1drv.ms/p/s!ApySBi4wQidyh-d5lFBZgq4TDQ0EJg?e=oUUJGA
 
 ## Contributing
 
