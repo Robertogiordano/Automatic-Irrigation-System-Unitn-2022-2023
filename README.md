@@ -64,6 +64,9 @@ https://drive.google.com/file/d/1M0-fqor-0n5G2SIImS-bF2R9dSsC9bi-/view?usp=share
 PPTX:
 https://1drv.ms/p/s!ApySBi4wQidyh-d5lFBZgq4TDQ0EJg?e=oUUJGA
 
+Plant dataset:
+https://docs.google.com/spreadsheets/d/1_PBXpU71sC3mkkARW9qmHVbiSXyPTU1CJVvSfj0CYL8/edit?usp=sharing_eil_m&ts=63d79dab
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
